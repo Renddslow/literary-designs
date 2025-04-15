@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Literary Designs</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://static.bibleproject.com/bp-web-components/v0.21.1/bp.css"
+    />
+    <script
+      src="https://static.bibleproject.com/bp-web-components/v0.21.1/bp.js"
+      type="module"
+    ></script>
+    <style>
+      * {
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+      }
+
+      #wrapper {
+        padding: 24px;
+        margin: 24px auto;
+        /*max-width: 650px;*/
+      }
+    </style>
+  </head>
+  <body>
+    <div id="wrapper"></div>
+    <script type="text/xml"></script>
+    <script>
+      (async () => {
+        const search = new URLSearchParams(window.location.search);
+        if (search.get("d")) {
+          const { type, ...rest } = await fetch(`data/${search.get("d")}.json`)
+            .then((d) => d.json())
+            .catch(() => ({}));
+
+          // If no type is present, fetch xml
+          if (!type) {
+            const design = document.createElement("bp-literary-design");
+            design.usx = await fetch(`data/${search.get("d")}.xml`)
+              .then((d) => d.text())
+              .catch(() => "");
+            document.getElementById("wrapper").appendChild(design);
+            return;
+          }
+
+          const design = document.createElement("bp-macro-literary-design");
+          design.data = rest;
+          document.getElementById("wrapper").appendChild(design);
+        }
+      })();
+    </script>
+  </body>
+</html>

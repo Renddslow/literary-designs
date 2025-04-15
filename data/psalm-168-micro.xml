@@ -1,0 +1,76 @@
+<usx>
+    <para>
+        <group sidebar-color="green" sidebar-value="Inclusio">
+            <verse number="1" /> <char mark-variant="highlight-light" mark-color="green">Praise Yah</char>
+        </group>
+        <optbreak />
+        <group sidebar-color="blue" indent="1" sidebar-value="Things above">
+            <group sidebar-color="blue"><verse number="2" /> Praise Yahweh <char mark-variant="highlight" mark-color="blue">from the skies</char></group>
+            <group><verse number="3" /> Praise him <char mark-variant="highlight" mark-color="blue">in the heights</char></group>
+        </group>
+        <group sidebar-color="red" sidebar-value="Divine beings in Yahweh's service" indent="1">
+            <group><verse number="4" /> Praise him <char mark-variant="highlight-light" mark-color="red">all his angels</char></group>
+            <group><verse number="5" /> Praise him <char mark-variant="highlight-light" mark-color="red">all his armies</char></group>
+        </group>
+        <group sidebar-color="red" sidebar-value="Day 4 (Heavenly created rulers)" indent="1">
+            <group><verse number="6" /> Praise him <char mark-variant="highlight-light" mark-color="blue">sun</char> and <char mark-variant="highlight-light" mark-color="blue">moon</char></group>
+            <group><verse number="7" /> Praise him <char mark-variant="highlight-light" mark-color="blue">all the bright stars</char></group>
+        </group>
+        <group sidebar-color="blue" indent="1" sidebar-value="Day 2">
+            <group><verse number="8" /> Praise him <char mark-variant="highlight" mark-color="blue">in the highest skies</char></group>
+            <group><verse number="9" /> <char mark-variant="highlight" mark-color="blue">And the waters which are above the skies</char></group>
+        </group>
+        <optbreak />
+        <group sidebar-color="green" sidebar-value="Refrain">
+            <verse number="10" /> <char mark-variant="highlight-light" mark-color="green">Let them praise the name of Yahweh</char>
+        </group>
+        <optbreak />
+        <group sidebar-color="orange" indent="1" sidebar-value="Yahweh established the sky creations">
+            <group><verse number="11" /> For he <char mark-color="red" mark-variant="text">commanded</char> and they were <char mark-variant="text" mark-color="purple">created</char></group>
+            <group><verse number="12" /> And he <char mark-variant="text" mark-color="purple">established</char> <char mark-color="orange" mark-variant="highlight-light">them forever and ever</char></group>
+            <group><verse number="13" /> He <char mark-color="red" mark-variant="text">gave a decree</char>, and <char mark-color="orange" mark-variant="highlight-light">it will not pass away</char></group>
+        </group>
+        <group sidebar-value="Day 3 (Separating land and water)" sidebar-color="green" indent="1">
+            <group><verse number="14" /> Praise Yahweh <char mark-variant="highlight" mark-color="green">from the earth</char></group>
+            <group><verse number="15" /> <char mark-variant="highlight" mark-color="green">Sea monsters</char> and <char mark-variant="highlight" mark-color="green">all abysses</char></group>
+        </group>
+        <group sidebar-color="red" sidebar-value="Theophanies and Judgement" indent="1">
+            <group><verse number="16" /> <char mark-color="red" mark-variant="highlight">Fire</char> and <char mark-color="red" mark-variant="highlight">hail</char> and <char mark-color="red" mark-variant="highlight">thick smoke</char></group>
+            <group><verse number="17" /> <char mark-color="red" mark-variant="highlight">Storm wind that does his word</char></group>
+        </group>
+        <group indent="1" sidebar-value="Day 3+1 (Land and vegetation)" sidebar-color="green">
+            <group><verse number="18" /> <char mark-variant="highlight-dark" mark-color="green">The mountains</char> and <char mark-variant="highlight-dark" mark-color="green">all the valleys</char></group>
+            <group><verse number="19" /> <char mark-variant="highlight-dark" mark-color="green">Fruit trees</char> and <char mark-variant="highlight-dark" mark-color="green">all oak trees</char></group>
+        </group>
+        <group indent="1" sidebar-value="Day 6 (Animal life)" sidebar-color="purple">
+            <group><verse number="20" /> <char mark-color="purple" mark-variant="highlight-light">The living creatures</char> and <char mark-color="purple" mark-variant="highlight-light">all beasts</char></group>
+            <group><verse number="21" /> <char mark-color="purple" mark-variant="highlight-light">Creeping things</char> and <char mark-color="purple" mark-variant="highlight-light">winged birds</char></group>
+        </group>
+        <group indent="1" sidebar-value="Day 6+1 (Humans—earthly created rulers)" sidebar-color="purple">
+            <group><verse number="22" /> <char mark-variant="highlight" mark-color="purple">Kings</char> of the earth and <char mark-variant="highlight" mark-color="purple">all peoples</char></group>
+            <group><verse number="23" /> <char mark-variant="highlight" mark-color="purple">Princes</char> and <char mark-variant="highlight" mark-color="purple">all judges of the earth</char></group>
+        </group>
+        <group indent="1" sidebar-value="All humans" sidebar-color="purple">
+            <group><verse number="24" /> <char mark-variant="text" mark-color="purple">Firstborn sons</char> and <char mark-variant="text" mark-color="purple">also virgins</char></group>
+            <group><verse number="25" /> <char mark-variant="highlight-dark" mark-color="purple">Old men</char> with <char mark-variant="highlight-dark" mark-color="purple">young men</char></group>
+        </group>
+        <optbreak />
+        <group sidebar-value="Refrain" sidebar-color="green">
+            <verse number="26" /> <char mark-variant="highlight-light" mark-color="green">Let them praise the name of Yahweh</char>
+        </group>
+        <optbreak />
+        <group indent="1" sidebar-value="Yahweh's name and glory" sidebar-color="orange">
+            <group><verse number="27" /> For <char mark-variant="highlight-light" mark-color="orange">his name</char> alone is <char mark-variant="text" mark-color="orange">highly exalted</char></group>
+            <group><verse number="28" /> <char mark-variant="highlight-light" mark-color="orange">His splendor</char> <char mark-variant="text" mark-color="orange">above the land and skies</char></group>
+        </group>
+        <group indent="1" sidebar-color="purple" sidebar-value="Yahweh's people">
+            <group><verse number="29" /> He lifts up <char mark-color="turquoise" mark-variant="highlight-light">the horn</char> of <char mark-color="purple" mark-variant="text">his people</char></group>
+            <group><verse number="30" /> <char mark-color="turquoise" mark-variant="highlight-light">Praise</char> for <char mark-color="purple" mark-variant="text">all his saints</char></group>
+            <group><verse number="31" /> <char mark-color="purple" mark-variant="text">For the sons of Israel</char>, a people near him.</group>
+        </group>
+        <optbreak />
+        <group sidebar-color="green" sidebar-value="Inclusio">
+            <verse number="32" /> <char mark-variant="highlight-light" mark-color="green">Praise Yah</char>
+        </group>
+    </para>
+</usx>

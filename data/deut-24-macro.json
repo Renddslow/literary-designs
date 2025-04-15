@@ -1,0 +1,111 @@
+{
+  "type": "macro",
+  "direction": "horizontal",
+  "groups": [
+    {
+      "reference": "24:6–13",
+      "fillBackground": true,
+      "markVariant": "highlight-light",
+      "markColor": "blue",
+      "subgroups": [
+        {
+          "reference": "24:6",
+          "fillBackground": true,
+          "markVariant": "highlight",
+          "markColor": "blue",
+          "detailList": ["Don't take the means of producing food as collateral"]
+        },
+        {
+          "reference": "24:7–9",
+          "indent": 1,
+          "fillBackground": true,
+          "markVariant": "highlight",
+          "markColor": "red",
+          "detailList": [
+            "Man-stealers need to be removed from the community like a leper"
+          ]
+        },
+        {
+          "reference": "24:10–13",
+          "fillBackground": true,
+          "markVariant": "highlight",
+          "markColor": "blue",
+          "detailList": [
+            "Treat your neighbor with dignity when they offer a collateral for a loan",
+            "Return your neighbor's collateral at night"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "24:14–18",
+      "fillBackground": true,
+      "markVariant": "highlight-light",
+      "markColor": "blue",
+      "subgroups": [
+        {
+          "reference": "24:14–15",
+          "fillBackground": true,
+          "markVariant": "highlight",
+          "markColor": "blue",
+          "detailList": [
+            "Do not mistreat your workers",
+            "They might cry out to Yahweh"
+          ]
+        },
+        {
+          "reference": "24:16",
+          "indent": 1,
+          "fillBackground": true,
+          "markVariant": "highlight",
+          "markColor": "red",
+          "detailList": [
+            "Parents should not be put to death for their children"
+          ]
+        },
+        {
+          "reference": "24:17–18",
+          "fillBackground": true,
+          "markVariant": "highlight",
+          "markColor": "blue",
+          "detailList": [
+            "Do not rob the immigrant of justice",
+            "Because you were slaves in Egypt"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "24:19–25:4",
+      "fillBackground": true,
+      "markVariant": "highlight-light",
+      "markColor": "blue",
+      "subgroups": [
+        {
+          "reference": "24:19–22",
+          "fillBackground": true,
+          "markVariant": "highlight",
+          "markColor": "blue",
+          "detailList": [
+            "Perform your harvesting in a way that allows widows to glean for subsistence"
+          ]
+        },
+        {
+          "reference": "25:1–3",
+          "indent": 1,
+          "fillBackground": true,
+          "markVariant": "highlight",
+          "markColor": "red",
+          "detailList": ["Do not degrade an Israelite in civil punishment"]
+        },
+        {
+          "reference": "25:4",
+          "fillBackground": true,
+          "markVariant": "highlight",
+          "markColor": "blue",
+          "detailList": ["Do not muzzle an ox while it treads"]
+        }
+      ]
+    }
+  ]
+}

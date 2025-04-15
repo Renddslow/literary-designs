@@ -1,0 +1,103 @@
+{
+  "type": "macro",
+  "direction": "horizontal",
+  "groups": [
+    {
+      "title": "Intro",
+      "reference": "Pss 1–2",
+      "markVariant": "highlight",
+      "markColor": "green"
+    },
+    {
+      "title": "Book I",
+      "reference": "Psalms 3–41",
+      "fillBackground": true,
+      "markVariant": "highlight-light",
+      "markColor": "blue",
+      "subgroups": [
+        {
+          "markVariant": "text",
+          "title": "Conclusion",
+          "reference": "Psalm 41:13",
+          "detailListType": "unordered",
+          "detailList": [
+            "Blessed be Yahweh, the God of Israel, from everlasting to everlasting.",
+            "Amen and Amen."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Book II",
+      "reference": "Psalms 42–72",
+      "fillBackground": true,
+      "markVariant": "highlight-light",
+      "markColor": "blue",
+      "subgroups": [
+        {
+          "markVariant": "text",
+          "title": "Conclusion",
+          "reference": "Psalm 72:18–19",
+          "detailListType": "unordered",
+          "detailList": [
+            "Blessed be Yahweh, the God of Israel, who alone does wondrous things.",
+            "Blessed be his glorious name forever; may his glory fill the whole earth.",
+            "Amen and Amen."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Book III",
+      "reference": "Psalms 73–89",
+      "fillBackground": true,
+      "markVariant": "highlight-light",
+      "markColor": "purple",
+      "subgroups": [
+        {
+          "markVariant": "text",
+          "title": "Conclusion",
+          "reference": "Psalm 89:52",
+          "detailListType": "unordered",
+          "detailList": ["Blessed be Yahweh forever.", "Amen and Amen."]
+        }
+      ]
+    },
+    {
+      "title": "Book IV",
+      "reference": "Psalms 90–106",
+      "fillBackground": true,
+      "markVariant": "highlight-light",
+      "markColor": "red",
+      "subgroups": [
+        {
+          "markVariant": "text",
+          "title": "Conclusion",
+          "reference": "Psalm 106:48",
+          "detailListType": "unordered",
+          "detailList": [
+            "Blessed be Yahweh, the God of Israel,",
+            "from everlasting to everlasting.",
+            "And let all the people say, “Amen.”",
+            "Praise Yahweh!"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Book V",
+      "reference": "Psalms 107–150",
+      "fillBackground": true,
+      "markVariant": "highlight-light",
+      "markColor": "red",
+      "subgroups": [
+        {
+          "markVariant": "text",
+          "title": "Conclusion",
+          "reference": "Psalm 146–150",
+          "detailList": ["Praise Yahweh!"]
+        }
+      ]
+    }
+  ]
+}

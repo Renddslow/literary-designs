@@ -1,0 +1,136 @@
+{
+  "type": "macro",
+  "direction": "vertical",
+  "groups": [
+    {
+      "reference": "24:2–15",
+      "fillBackground": true,
+      "markVariant": "highlight-light",
+      "markColor": "blue",
+      "title": "The Discourse",
+      "subgroups": [
+        {
+          "reference": "24:2",
+          "title": "Joshua as speaker",
+          "markVariant": "highlight",
+          "fillBackground": true,
+          "markColor": "blue",
+          "detailList": ["“Thus says Yahweh, God of Israel”"]
+        },
+        {
+          "reference": "24:2b–13",
+          "title": "Yahweh as speaker",
+          "markVariant": "highlight",
+          "fillBackground": true,
+          "markColor": "purple",
+          "subgroups": [
+            {
+              "reference": "24:2b–6",
+              "title": "Yahweh as speaker",
+              "markVariant": "highlight",
+              "markColor": "purple",
+              "detailList": [
+                "Abraham's father's gods",
+                "Abraham brought out into Canaan",
+                "The inheritance of Abraham and his sons",
+                "The exodus from Egypt"
+              ]
+            },
+            {
+              "reference": "24:6b–7a",
+              "title": "Joshua as speaker",
+              "markVariant": "highlight",
+              "markColor": "blue",
+              "fillBackground": true,
+              "indent": 1,
+              "detailList": ["Egypt's pursuit", "Israel's outcry"]
+            },
+            {
+              "reference": "24:7b–13",
+              "title": "Yahweh as speaker",
+              "markVariant": "highlight",
+              "markColor": "purple",
+              "detailList": [
+                "Dwelling in the wilderness",
+                "Defeat of the Amorites",
+                "Balaam thwarted",
+                "War of the eight armies at Jericho",
+                "“I gave you a land which you did not labor for”"
+              ]
+            }
+          ]
+        },
+        {
+          "reference": "24:14–15",
+          "title": "Joshua as speaker",
+          "markVariant": "highlight",
+          "fillBackground": true,
+          "markColor": "blue",
+          "detailList": [
+            "<bp-mark variant=\"text\" color=\"black\">Exhortation:</bp-mark> Fear Yahweh and serve him",
+            "<bp-mark variant=\"text\" color=\"black\">Exhortation:</bp-mark> Turn aside from the gods of your fathers",
+            "<bp-mark variant=\"text\" color=\"black\">Exhortation:</bp-mark> Choose this day whom you will serve"
+          ]
+        }
+      ]
+    },
+    {
+      "reference": "24:16–24",
+      "fillBackground": true,
+      "markVariant": "highlight-light",
+      "markColor": "green",
+      "title": "The Response",
+      "subgroups": [
+        {
+          "reference": "24:16–18 (People)",
+          "markVariant": "highlight",
+          "markColor": "green",
+          "fillBackground": true,
+          "title": "We will not forsake Yahweh, on account of his magnificent deeds"
+        },
+        {
+          "reference": "24:19–20 (Joshua)",
+          "markVariant": "highlight",
+          "markColor": "blue",
+          "fillBackground": true,
+          "title": "You are not able to serve Yahweh"
+        },
+        {
+          "reference": "24:21 (People)",
+          "markVariant": "highlight",
+          "markColor": "green",
+          "fillBackground": true,
+          "title": "We will <i>surely</i> serve Yahweh"
+        },
+        {
+          "reference": "24:22a (Joshua)",
+          "markVariant": "highlight",
+          "markColor": "blue",
+          "fillBackground": true,
+          "title": "You are witnesses against yourselves"
+        },
+        {
+          "reference": "24:22b (People)",
+          "markVariant": "highlight",
+          "markColor": "green",
+          "fillBackground": true,
+          "title": "We are witnesses"
+        },
+        {
+          "reference": "24:23 (Joshua)",
+          "markVariant": "highlight",
+          "markColor": "blue",
+          "fillBackground": true,
+          "title": "Put aside the foreign gods"
+        },
+        {
+          "reference": "24:24 (People)",
+          "markVariant": "highlight",
+          "markColor": "green",
+          "fillBackground": true,
+          "title": "Yahweh our God we will serve"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "macro",
+  "direction": "horizontal",
+  "groups": [
+    {
+      "reference": "1 Peter 1:1–12",
+      "title": "Introduction",
+      "subgroups": [
+        {
+          "reference": "1 Peter 1:1–2",
+          "title": "Greeting"
+        },
+        {
+          "reference": "1 Peter 1:3–12"
+        }
+      ]
+    },
+    {
+      "reference": "1 Peter 1:13–2:10",
+      "title": "Holy Nation",
+      "subgroups": [{
+        "reference": "1 Peter 1:13–21"
+      }, {
+        "reference": "1 Peter 1:22–2:8"
+      }, {
+        "reference": "1 Peter 2:9–10"
+      }]
+    },
+    {
+      "reference": "1 Peter 2:11–4:11",
+      "title": "",
+      "subgroups": [{
+        "reference": "1 Peter 2:11–3:17"
+      },{
+        "reference": "1 Peter 3:18–4:6",
+        "title": "Baptism and Suffering"
+      }, {
+        "reference": "1 Peter 4:7–11"
+      }]
+    },
+    {
+      "reference": "1 Peter 4:12–5:11",
+      "title": "",
+      "subgroups": [{
+        "reference": "1 Peter 4:12–19",
+        "title": "The Fiery Ideal"
+      }, {
+        "reference": "1 Peter 5:1–5",
+        "title": ""
+      }, {
+        "reference": "1 Peter 5:6–11",
+        "title": ""
+      }]
+    },
+    {
+      "reference": "1 Peter 5:12–14",
+      "title": "Conclusion"
+    }
+  ]
+}
