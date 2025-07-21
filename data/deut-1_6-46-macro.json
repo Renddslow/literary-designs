@@ -1,0 +1,68 @@
+{
+  "type": "macro",
+  "direction": "horizontal",
+  "groups": [
+    {
+      "reference": "1:6–46",
+      "title": "Spies fail the test",
+      "markColor": "purple",
+      "markVariant": "highlight",
+      "subgroups": [
+        {
+          "reference": "1:6–19",
+          "markColor": "green",
+          "markVariant": "highlight-light",
+          "fillBackground": true,
+          "subgroups": [
+            {
+              "reference": "1:6–8",
+              "title": "Call to leave Horeb",
+              "markColor": "green",
+              "markVariant": "highlight"
+            },
+            {
+              "reference": "1:9–17",
+              "title": "Appointing Elders",
+              "indent": 1,
+              "markColor": "blue",
+              "markVariant": "highlight"
+            },
+            {
+              "reference": "1:18–19",
+              "title": "Setting out from Horeb",
+              "markColor": "green",
+              "markVariant": "highlight"
+            }
+          ]
+        },
+        {
+          "reference": "1:20–46",
+          "markColor": "orange",
+          "markVariant": "highlight-light",
+          "fillBackground": true,
+          "subgroups": [
+            {
+              "reference": "1:20–28",
+              "title": "There and back again, a spies' tale",
+              "markColor": "orange",
+              "markVariant": "highlight"
+            },
+            {
+              "reference": "1:29–42",
+              "title": "Moses and Yahweh rebuke Israel",
+              "indent": 1,
+              "markColor": "red",
+              "markVariant": "highlight"
+            },
+            {
+              "reference": "1:43–46",
+              "title": "Defeated by the Amorites",
+              "markColor": "orange",
+              "markVariant": "highlight"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

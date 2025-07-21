@@ -1,0 +1,49 @@
+{
+  "type": "macro",
+  "direction": "horizontal",
+  "groups": [
+    {
+      "reference": "1:1–5",
+      "title": "Introduction",
+      "markVariant": "highlight",
+      "fillBackground": true,
+      "markColor": "black"
+    },
+    {
+      "reference": "1:6–3:20",
+      "fillBackground": true,
+      "markVariant": "highlight-light",
+      "markColor": "blue",
+      "subgroups": [
+        {
+          "reference": "1:6–46",
+          "title": "Spies fail the test",
+          "markColor": "purple",
+          "markVariant": "highlight",
+          "fillBackground": true
+        },
+        {
+          "reference": "2:1–23",
+          "title": "Yahweh against the giants",
+          "markColor": "red",
+          "markVariant": "highlight",
+          "fillBackground": true
+        },
+        {
+          "reference": "2:24–3:20",
+          "title": "Israel against the giants",
+          "markColor": "green",
+          "markVariant": "highlight",
+          "fillBackground": true
+        }
+      ]
+    },
+    {
+      "reference": "3:21–29",
+      "title": "Conclusion",
+      "markVariant": "highlight",
+      "fillBackground": true,
+      "markColor": "black"
+    }
+  ]
+}
